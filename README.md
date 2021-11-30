@@ -1,5 +1,5 @@
 # html_jinja_static
-this code can change html link and image to jinja static form and i think it's useful for Django developer
+This code can change html link and image to jinja static form and i think it's useful for Django developer
 
 for example: 
 this code
